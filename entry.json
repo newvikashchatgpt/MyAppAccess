@@ -14,5 +14,9 @@
     },
     "4": {
         "usercode": "xyz123"
+    },
+    "5": {
+        "device_id": "ndndnd",
+        "status": "active"
     }
 }
