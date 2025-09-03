@@ -18,5 +18,9 @@
     "5": {
         "device_id": "ndndnd",
         "status": "active"
+    },
+    "6": {
+        "device_id": "test999",
+        "status": "active"
     }
 }
