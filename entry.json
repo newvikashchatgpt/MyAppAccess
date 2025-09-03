@@ -22,5 +22,9 @@
     "6": {
         "device_id": "test999",
         "status": "blocked"
+    },
+    "7": {
+        "device_id": "test8888",
+        "status": "active"
     }
 }
