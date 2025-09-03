@@ -1,1 +1,6 @@
-{ "usercode": "test123" }
+{
+    "usercode": "test123",
+    "0": {
+        "usercode": "abc123"
+    }
+}
