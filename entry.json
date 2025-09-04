@@ -1,18 +1,1 @@
-[
-  {
-    "device_id": "22fc003506969c86",
-    "status": "active"
-  },
-  {
-    "device_id": "test_device_123",
-    "status": "blocked"
-  },
-  {
-    "device_id": "my_second_phone",
-    "status": "active"
-  },
-  {
-    "device_id": "other_user_999",
-    "status": "blocked"
-  }
-]
+[]
