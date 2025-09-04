@@ -1,10 +1,6 @@
-{
+[
     {
-        "device_id": "test123",
-        "status": "active"
-    },
-    {
-        "device_id": "test1753",
+        "device_id": "test1ghd",
         "status": "active"
     }
-}
+]
