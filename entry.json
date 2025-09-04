@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "device_id": "test123",
+        "status": "active"
+    }
+]
