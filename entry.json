@@ -1,30 +1,18 @@
-{
-    "usercode": "test123",
-    "0": {
-        "usercode": "abc123"
-    },
-    "1": {
-        "usercode": "abc123"
-    },
-    "2": {
-        "usercode": "xzggfyhgfhhfrgg23"
-    },
-    "3": {
-        "usercode": "xyvilasg3"
-    },
-    "4": {
-        "usercode": "xyz123"
-    },
-    "5": {
-        "device_id": "ndndnd",
-        "status": "active"
-    },
-    "6": {
-        "device_id": "test999",
-        "status": "blocked"
-    },
-    "7": {
-        "device_id": "test8888",
-        "status": "active"
-    }
-}
+[
+  {
+    "device_id": "vikash_device_001",
+    "status": "active"
+  },
+  {
+    "device_id": "test_device_123",
+    "status": "blocked"
+  },
+  {
+    "device_id": "22fc003506969c86",
+    "status": "active"
+  },
+  {
+    "device_id": "other_user_999",
+    "status": "blocked"
+  }
+]
