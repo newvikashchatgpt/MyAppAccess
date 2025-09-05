@@ -54,5 +54,10 @@
         "device_id": "MYDEVICElmisseu",
         "status": "active",
         "timestamp": "2025-09-06 04:23:28"
+    },
+    {
+        "device_id": "MYDEVICElmmissindia",
+        "status": "blocked",
+        "timestamp": "2025-09-06 04:32:14"
     }
 ]
