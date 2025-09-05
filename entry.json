@@ -29,5 +29,10 @@
         "status": "active",
         "ip": "2409:40c4:16e:3aa5:e04a:dd2:8c86:bab3",
         "ua": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Mobile Safari\/537.36"
+    },
+    {
+        "device_id": "MYDEVICE123",
+        "status": "active",
+        "timestamp": "2025-09-05 22:14:25"
     }
 ]
