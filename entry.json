@@ -44,5 +44,10 @@
         "device_id": "MYDEVICE789",
         "status": "blocked",
         "timestamp": "2025-09-05 22:18:43"
+    },
+    {
+        "device_id": "MYDEVICEloveu",
+        "status": "active",
+        "timestamp": "2025-09-05 22:24:53"
     }
 ]
