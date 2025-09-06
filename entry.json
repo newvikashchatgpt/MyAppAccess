@@ -3,5 +3,10 @@
         "device_id": "demo_test",
         "status": "active",
         "timestamp": "2025-09-06 16:47:01"
+    },
+    {
+        "device_id": "MYDEVICE123",
+        "status": "active",
+        "timestamp": "2025-09-06 16:49:19"
     }
 ]
