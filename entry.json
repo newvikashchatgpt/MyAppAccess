@@ -88,5 +88,10 @@
         "device_id": "demo_test12gjjjj",
         "status": "active",
         "timestamp": "2025-09-06 20:40:01"
+    },
+    {
+        "device_id": "demo_lai",
+        "status": "active",
+        "timestamp": "2025-09-06 20:46:25"
     }
 ]
