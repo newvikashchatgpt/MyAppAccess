@@ -119,5 +119,10 @@
         "device_id": "test_deviceagnial_1",
         "status": "active",
         "timestamp": "2025-09-06 14:23:37"
+    },
+    {
+        "device_id": "test_force_123",
+        "status": "active",
+        "timestamp": "2025-09-06 15:00:31"
     }
 ]
