@@ -48,5 +48,10 @@
         "device_id": "demo_teslovejgfff",
         "status": "active",
         "timestamp": "2025-09-06 20:00:19"
+    },
+    {
+        "device_id": "demo_teslovejgfffgxfghb",
+        "status": "active",
+        "timestamp": "2025-09-06 20:00:35"
     }
 ]
