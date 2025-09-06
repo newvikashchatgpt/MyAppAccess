@@ -94,5 +94,10 @@
         "device_id": "demo_demofbfnncndndndnmsndd",
         "status": "active",
         "timestamp": "2025-09-06 06:57:20"
+    },
+    {
+        "device_id": "demo_now_test",
+        "status": "active",
+        "timestamp": "2025-09-06 07:07:58"
     }
 ]
