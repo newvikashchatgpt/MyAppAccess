@@ -124,5 +124,10 @@
         "device_id": "test_force_123",
         "status": "active",
         "timestamp": "2025-09-06 15:00:31"
+    },
+    {
+        "device_id": "XYZdbbdbd",
+        "status": "active",
+        "timestamp": "2025-09-06 15:05:39"
     }
 ]
