@@ -109,5 +109,10 @@
         "device_id": "ivolyou22fc003506969c86",
         "status": "active",
         "timestamp": "2025-09-06 13:56:42"
+    },
+    {
+        "device_id": "test_device_manual_1",
+        "status": "active",
+        "timestamp": "2025-09-06 14:18:32"
     }
 ]
