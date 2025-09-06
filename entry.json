@@ -74,5 +74,10 @@
         "device_id": "TEST123",
         "status": "active",
         "timestamp": "2025-09-06 05:28:26"
+    },
+    {
+        "device_id": "demo_test_boitto001",
+        "status": "active",
+        "timestamp": "2025-09-06 05:56:24"
     }
 ]
